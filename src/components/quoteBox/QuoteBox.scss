@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Ovo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ovo&family=Quattrocento+Sans&display=swap');
+#quote-box {
+    width: 450px;
+    padding: 50px 50px;
+    background-color: aliceblue;
+    display: grid;
+    border-radius: 3px;
+    font-family: 'Ovo', serif;
+    z-index: 2;
+    opacity: 90%;
+    .quote-text {
+        i {
+            font-size: 1em;
+            margin-right: 0.4em;
+            margin-left: 0.4em;
+        }
+        text-align: center;
+        width: 100%;
+        height: auto;
+        clear: both;
+        font-size: 1.75em;
+    }
+    .quote-author {
+        width: 100%;
+        height: auto;
+        clear: both;
+        padding-top: 20px;
+        font-size: 1.2em;
+        text-align: right;
+        font-family: 'Quattrocento Sans', sans-serif;
+    }
+    .buttons {
+        width: 100%;
+        margin: auto;
+        display: block;
+        .button {
+            height: 38px;
+            border: none;
+            border-radius: 3px;
+            outline: none;
+            padding: 8px 18px 6px 18px;
+            margin-top: 30px;
+            opacity: 100%;
+            color: #fff;
+            background-color: #333;
+            cursor: pointer;
+            &:hover {
+                opacity: 0.9;
+            }
+            &#tweet-quote {
+                float: left;
+                padding: 0px;
+                padding-top: 10px;
+                text-align: center;
+                font-size: 1.1em;
+                margin-right: 5px;
+                height: 30px;
+                width: 40px;
+            }
+            &#new-quote {
+                float: right;
+                i {
+                    font-size: 1.5em;
+                    &:hover {
+                        transform: translateX(20%);
+                        transition: ease-in 0.1s;
+                    }
+                }
+            }
+        }
+    }
+}
