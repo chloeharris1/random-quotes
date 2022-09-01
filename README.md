@@ -4,10 +4,9 @@
 
 ## Description 
 
-A random quote machine app built with React that retrieves quotes from an API. Users are
-able to generate a new quote and share quotes on Twitter. 
+A React app that retrieves random quotes from an API. Users can generate new quotes and share their favorite quotes on Twitter. 
 
-As one of FreeCodeCamp's Front End Development Libraries projects, the objective was to fulfill the user stories and get all of the tests to pass. 
+A FreeCodeCamp Front End Development Libraries project, with the objective to fulfill the user stories and get all of the tests to pass. 
 
 ## Built With
 * React
@@ -16,9 +15,9 @@ As one of FreeCodeCamp's Front End Development Libraries projects, the objective
 
 ## Snapshot 
 
-![screenshot](./public\screenshots\Columbus.png)
+![screenshot](./public/screenshots/Columbus.png)
 
-![screenshot](./public\screenshots\Angelou.png)
+![screenshot](./public/screenshots/Angelou.png)
 
 ## Link
 [Random Quote Machine]()
