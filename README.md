@@ -20,7 +20,7 @@ A FreeCodeCamp Front End Development Libraries project, with the objective to fu
 ![screenshot](./public/screenshots/Angelou.png)
 
 ## Link
-[Random Quote Machine]()
+[Random Quote Machine](https://react-app-random-quotes.netlify.app)
 
 ## Credits
 Images from: 
