@@ -26,6 +26,9 @@ A FreeCodeCamp Front End Development Libraries project, with the objective to fu
 Images from: 
 [Uplash](https://www.uplash.com)
 
+Speech bubble favicon from:
+[flaticon](https://www.flaticon.com/free-icon/quotation-marks-in-speech-bubble_1294?term=quotes&page=1&position=41&page=1&position=41&related_id=1294&origin=tag)
+
 ## License
 Licensed under the MIT license.
 
