@@ -9,9 +9,9 @@ A React app that retrieves random quotes from an API. Users can generate new quo
 A FreeCodeCamp Front End Development Libraries project, with the objective to fulfill the user stories and get all of the tests to pass. 
 
 ## Built With
-* React
-* Sass
-* Font Awesome
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![image](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 
 ## Snapshot 
 
